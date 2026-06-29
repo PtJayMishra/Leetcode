@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PtJayMishra/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PtJayMishra/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+## Sorting
+|  |
+| ------- |
+| [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 <!---LeetCode Topics End-->
