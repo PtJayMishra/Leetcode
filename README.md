@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/PtJayMishra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/PtJayMishra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/PtJayMishra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Matrix
 |  |
