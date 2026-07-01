@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/PtJayMishra/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
