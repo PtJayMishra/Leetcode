@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
+| [3941-password-strength](https://github.com/PtJayMishra/Leetcode/tree/master/3941-password-strength) |
 ## String
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
+| [3941-password-strength](https://github.com/PtJayMishra/Leetcode/tree/master/3941-password-strength) |
 ## Graph Theory
 |  |
 | ------- |
