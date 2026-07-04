@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
+| [2833-furthest-point-from-origin](https://github.com/PtJayMishra/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3941-password-strength](https://github.com/PtJayMishra/Leetcode/tree/master/3941-password-strength) |
 ## Graph Theory
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/PtJayMishra/Leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
