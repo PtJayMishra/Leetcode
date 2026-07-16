@@ -1,27 +1,44 @@
+class DSU{
+    vector<int> parent;
+    public:
+    DSU(int n){
+        for(int i =0 ; i < n ; i++){
+            parent.push_back(i);
+        }
+    }
+    int find(int x){
+        if(parent[x] == x)return x;
+        return parent[x] = find(parent[x]);
+    }
+    void merge(int x , int y ){
+        int parx = find(x);
+        int pary = find(y);
+        parent[parx] = pary;
+    }
+};
+
 class Solution {
 public:
-// bool check(int u , int v , vector<int> & nums , int tar){
-//      for(int i = u ; i <v ; i++){
-//         if(abs(nums[i] - nums[i+1]) > tar)return false;
-//         else continue;
-//      }
-//      return true;
-//}
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        
-        vector<bool> ans;
-        vector<int> breaks(n , 0);
-
-        for(int  i =1 ; i < n ; i++){
-            breaks[i] = breaks[i-1];
-            if(abs(nums[i] - nums[i-1]) > maxDiff)breaks[i]++;
+        priority_queue<pair<int, int>> pq;
+        for(int i =0 ; i < n ; i++){
+            pq.push({nums[i] , i});
         }
-         for (auto &q : queries) {
-            int l = min(q[0], q[1]);
-            int r = max(q[0], q[1]);
-
-            ans.push_back(breaks[l] == breaks[r]);
+        DSU dsu(n);
+        pair<int , int>temp= pq.top();
+        while(!pq.empty()){
+            pair<int, int> cur = pq.top();
+            pq.pop();
+            if(abs(temp.first - cur.first)<= maxDiff){
+                dsu.merge(temp.second , cur.second);
+            }
+            temp = cur;
         }
-        return ans;
+        vector<bool > sol;
+        for(auto & it : queries){
+            sol.push_back(dsu.find(it[0]) == dsu.find(it[1]));
+        }
+        return sol;
+
     }
 };
