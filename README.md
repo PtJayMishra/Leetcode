@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2716-minimize-string-length](https://github.com/PtJayMishra/Leetcode/tree/master/2716-minimize-string-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/PtJayMishra/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PtJayMishra/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/PtJayMishra/Leetcode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3941-password-strength](https://github.com/PtJayMishra/Leetcode/tree/master/3941-password-strength) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2716-minimize-string-length](https://github.com/PtJayMishra/Leetcode/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/PtJayMishra/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/PtJayMishra/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3941-password-strength](https://github.com/PtJayMishra/Leetcode/tree/master/3941-password-strength) |
 ## Graph Theory
 |  |
