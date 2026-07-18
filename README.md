@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PtJayMishra/Leetcode/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/PtJayMishra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -157,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/PtJayMishra/Leetcode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
