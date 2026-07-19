@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PtJayMishra/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/PtJayMishra/Leetcode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/PtJayMishra/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/PtJayMishra/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/PtJayMishra/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PtJayMishra/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/PtJayMishra/Leetcode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3941-password-strength](https://github.com/PtJayMishra/Leetcode/tree/master/3941-password-strength) |
 ## String
