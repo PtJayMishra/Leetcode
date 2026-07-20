@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/PtJayMishra/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/PtJayMishra/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/PtJayMishra/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/PtJayMishra/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
