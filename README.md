@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PtJayMishra/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/PtJayMishra/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PtJayMishra/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PtJayMishra/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/PtJayMishra/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/PtJayMishra/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Monotonic Stack
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/PtJayMishra/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/PtJayMishra/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
