@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/PtJayMishra/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/PtJayMishra/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/PtJayMishra/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/PtJayMishra/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/PtJayMishra/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/PtJayMishra/Leetcode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Divide and Conquer
 |  |
@@ -219,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PtJayMishra/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/PtJayMishra/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/PtJayMishra/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
