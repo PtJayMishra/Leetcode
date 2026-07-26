@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/PtJayMishra/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/PtJayMishra/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/PtJayMishra/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -76,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/PtJayMishra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [2352-equal-row-and-column-pairs](https://github.com/PtJayMishra/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Matrix
 |  |
 | ------- |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/PtJayMishra/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [2352-equal-row-and-column-pairs](https://github.com/PtJayMishra/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/PtJayMishra/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2716-minimize-string-length](https://github.com/PtJayMishra/Leetcode/tree/master/2716-minimize-string-length) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PtJayMishra/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
