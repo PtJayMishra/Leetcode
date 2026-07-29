@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/PtJayMishra/Leetcode/tree/master/0791-custom-sort-string) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
+| [1859-sorting-the-sentence](https://github.com/PtJayMishra/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2716-minimize-string-length](https://github.com/PtJayMishra/Leetcode/tree/master/2716-minimize-string-length) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/PtJayMishra/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/PtJayMishra/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Design
 |  |
