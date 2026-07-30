@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/PtJayMishra/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/PtJayMishra/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2716-minimize-string-length](https://github.com/PtJayMishra/Leetcode/tree/master/2716-minimize-string-length) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1859-sorting-the-sentence](https://github.com/PtJayMishra/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/PtJayMishra/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2716-minimize-string-length](https://github.com/PtJayMishra/Leetcode/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/PtJayMishra/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/PtJayMishra/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/PtJayMishra/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/PtJayMishra/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/PtJayMishra/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
+| [2351-first-letter-to-appear-twice](https://github.com/PtJayMishra/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
