@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PtJayMishra/Leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/PtJayMishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0735-asteroid-collision](https://github.com/PtJayMishra/Leetcode/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/PtJayMishra/Leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/PtJayMishra/Leetcode/tree/master/0846-hand-of-straights) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PtJayMishra/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/PtJayMishra/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/PtJayMishra/Leetcode/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/PtJayMishra/Leetcode/tree/master/0846-hand-of-straights) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/PtJayMishra/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/PtJayMishra/Leetcode/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/PtJayMishra/Leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
