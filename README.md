@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/PtJayMishra/Leetcode/tree/master/0846-hand-of-straights) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/PtJayMishra/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PtJayMishra/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/PtJayMishra/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/PtJayMishra/Leetcode/tree/master/0071-simplify-path) |
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/PtJayMishra/Leetcode/tree/master/0791-custom-sort-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/PtJayMishra/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1859-sorting-the-sentence](https://github.com/PtJayMishra/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/PtJayMishra/Leetcode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/PtJayMishra/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/PtJayMishra/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/PtJayMishra/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PtJayMishra/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
