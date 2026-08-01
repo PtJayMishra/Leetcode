@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PtJayMishra/Leetcode/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/PtJayMishra/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3663-find-the-least-frequent-digit](https://github.com/PtJayMishra/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PtJayMishra/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PtJayMishra/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/PtJayMishra/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [3536-maximum-product-of-two-digits](https://github.com/PtJayMishra/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/PtJayMishra/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Design
 |  |
