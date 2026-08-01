@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/PtJayMishra/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PtJayMishra/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/PtJayMishra/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PtJayMishra/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bucket Sort
 |  |
