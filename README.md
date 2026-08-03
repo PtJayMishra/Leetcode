@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/PtJayMishra/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
+| [2103-rings-and-rods](https://github.com/PtJayMishra/Leetcode/tree/master/2103-rings-and-rods) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PtJayMishra/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/PtJayMishra/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/PtJayMishra/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1859-sorting-the-sentence](https://github.com/PtJayMishra/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [2103-rings-and-rods](https://github.com/PtJayMishra/Leetcode/tree/master/2103-rings-and-rods) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/PtJayMishra/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/PtJayMishra/Leetcode/tree/master/2405-optimal-partition-of-string) |
