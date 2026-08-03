@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/PtJayMishra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/PtJayMishra/Leetcode/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/PtJayMishra/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PtJayMishra/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/PtJayMishra/Leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/PtJayMishra/Leetcode/tree/master/0846-hand-of-straights) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0895-maximum-frequency-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/PtJayMishra/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1122-relative-sort-array](https://github.com/PtJayMishra/Leetcode/tree/master/1122-relative-sort-array) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Counting
 |  |
 | ------- |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/PtJayMishra/Leetcode/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PtJayMishra/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/PtJayMishra/Leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
