@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PtJayMishra/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/PtJayMishra/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PtJayMishra/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/PtJayMishra/Leetcode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/PtJayMishra/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/PtJayMishra/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PtJayMishra/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/PtJayMishra/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PtJayMishra/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PtJayMishra/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/PtJayMishra/Leetcode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3941-password-strength](https://github.com/PtJayMishra/Leetcode/tree/master/3941-password-strength) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/PtJayMishra/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/PtJayMishra/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3663-find-the-least-frequent-digit](https://github.com/PtJayMishra/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PtJayMishra/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/PtJayMishra/Leetcode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Two Pointers
 |  |
