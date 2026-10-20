@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PtJayMishra/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/PtJayMishra/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PtJayMishra/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/PtJayMishra/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/PtJayMishra/Leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/PtJayMishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0735-asteroid-collision](https://github.com/PtJayMishra/Leetcode/tree/master/0735-asteroid-collision) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PtJayMishra/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PtJayMishra/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/PtJayMishra/Leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/PtJayMishra/Leetcode/tree/master/0846-hand-of-straights) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PtJayMishra/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PtJayMishra/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/PtJayMishra/Leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/PtJayMishra/Leetcode/tree/master/0846-hand-of-straights) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PtJayMishra/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PtJayMishra/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -292,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PtJayMishra/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PtJayMishra/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
