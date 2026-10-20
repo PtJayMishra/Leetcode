@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PtJayMishra/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/PtJayMishra/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PtJayMishra/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PtJayMishra/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/PtJayMishra/Leetcode/tree/master/0229-majority-element-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PtJayMishra/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/PtJayMishra/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/PtJayMishra/Leetcode/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/PtJayMishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1340-jump-game-v](https://github.com/PtJayMishra/Leetcode/tree/master/1340-jump-game-v) |
 | [1504-count-submatrices-with-all-ones](https://github.com/PtJayMishra/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PtJayMishra/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PtJayMishra/Leetcode/tree/master/0169-majority-element) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PtJayMishra/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Tree
