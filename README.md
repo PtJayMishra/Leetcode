@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PtJayMishra/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/PtJayMishra/Leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/PtJayMishra/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PtJayMishra/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/PtJayMishra/Leetcode/tree/master/2032-two-out-of-three) |
 | [2103-rings-and-rods](https://github.com/PtJayMishra/Leetcode/tree/master/2103-rings-and-rods) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/PtJayMishra/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-destination-city](https://github.com/PtJayMishra/Leetcode/tree/master/1436-destination-city) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/PtJayMishra/Leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/PtJayMishra/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/PtJayMishra/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2103-rings-and-rods](https://github.com/PtJayMishra/Leetcode/tree/master/2103-rings-and-rods) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/PtJayMishra/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
